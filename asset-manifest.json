@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/PatidarFoodsHost-Prod/static/css/main.b137b16d.chunk.css",
+    "main.js": "/PatidarFoodsHost-Prod/static/js/main.853f5cf1.chunk.js",
+    "main.js.map": "/PatidarFoodsHost-Prod/static/js/main.853f5cf1.chunk.js.map",
+    "runtime-main.js": "/PatidarFoodsHost-Prod/static/js/runtime-main.9f863d4c.js",
+    "runtime-main.js.map": "/PatidarFoodsHost-Prod/static/js/runtime-main.9f863d4c.js.map",
+    "static/css/2.8cbc89cc.chunk.css": "/PatidarFoodsHost-Prod/static/css/2.8cbc89cc.chunk.css",
+    "static/js/2.bf89402c.chunk.js": "/PatidarFoodsHost-Prod/static/js/2.bf89402c.chunk.js",
+    "static/js/2.bf89402c.chunk.js.map": "/PatidarFoodsHost-Prod/static/js/2.bf89402c.chunk.js.map",
+    "static/js/3.60ce44ca.chunk.js": "/PatidarFoodsHost-Prod/static/js/3.60ce44ca.chunk.js",
+    "static/js/3.60ce44ca.chunk.js.map": "/PatidarFoodsHost-Prod/static/js/3.60ce44ca.chunk.js.map",
+    "index.html": "/PatidarFoodsHost-Prod/index.html",
+    "static/css/2.8cbc89cc.chunk.css.map": "/PatidarFoodsHost-Prod/static/css/2.8cbc89cc.chunk.css.map",
+    "static/css/main.b137b16d.chunk.css.map": "/PatidarFoodsHost-Prod/static/css/main.b137b16d.chunk.css.map",
+    "static/js/2.bf89402c.chunk.js.LICENSE.txt": "/PatidarFoodsHost-Prod/static/js/2.bf89402c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/PatidarFoodsHost-Prod/static/media/DP1.8c0bbc88.jpg",
+    "static/media/Drink.ca395285.jpg": "/PatidarFoodsHost-Prod/static/media/Drink.ca395285.jpg",
+    "static/media/KachoriChaat.d2207a33.jpg": "/PatidarFoodsHost-Prod/static/media/KachoriChaat.d2207a33.jpg",
+    "static/media/Khaman.dbb63a91.jpg": "/PatidarFoodsHost-Prod/static/media/Khaman.dbb63a91.jpg",
+    "static/media/Naan.f0c45baa.jpg": "/PatidarFoodsHost-Prod/static/media/Naan.f0c45baa.jpg",
+    "static/media/PavBhaji.b7710611.jpg": "/PatidarFoodsHost-Prod/static/media/PavBhaji.b7710611.jpg",
+    "static/media/Samosa.fe3c24e3.jpg": "/PatidarFoodsHost-Prod/static/media/Samosa.fe3c24e3.jpg",
+    "static/media/Sandwich.37a83ebe.jpg": "/PatidarFoodsHost-Prod/static/media/Sandwich.37a83ebe.jpg",
+    "static/media/Sweet.833bec9d.jpg": "/PatidarFoodsHost-Prod/static/media/Sweet.833bec9d.jpg",
+    "static/media/Thali.2dde7c78.jpg": "/PatidarFoodsHost-Prod/static/media/Thali.2dde7c78.jpg",
+    "static/media/Thali2.3670241d.jpg": "/PatidarFoodsHost-Prod/static/media/Thali2.3670241d.jpg",
+    "static/media/dahi puri1.92dfe7e2.jpg": "/PatidarFoodsHost-Prod/static/media/dahi puri1.92dfe7e2.jpg",
+    "static/media/font-awesome.min.css": "/PatidarFoodsHost-Prod/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.0ecf2f14.png": "/PatidarFoodsHost-Prod/static/media/logo.0ecf2f14.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f863d4c.js",
+    "static/css/2.8cbc89cc.chunk.css",
+    "static/js/2.bf89402c.chunk.js",
+    "static/css/main.b137b16d.chunk.css",
+    "static/js/main.853f5cf1.chunk.js"
+  ]
+}
